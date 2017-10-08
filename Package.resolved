@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "COpenSSL",
+        "repositoryURL": "https://github.com/PerfectlySoft/Perfect-COpenSSL.git",
+        "state": {
+          "branch": null,
+          "revision": "87b6d1f313887fa11bd75e157a3678f066eec981",
+          "version": "3.0.0"
+        }
+      },
+      {
+        "package": "PerfectCrypto",
+        "repositoryURL": "https://github.com/bytethenoodle/Perfect-Crypto.git",
+        "state": {
+          "branch": null,
+          "revision": "26c1f9bc40016b46d7c79131051e1821c566a37d",
+          "version": "3.0.2"
+        }
+      },
+      {
+        "package": "PerfectLib",
+        "repositoryURL": "https://github.com/bytethenoodle/Perfect.git",
+        "state": {
+          "branch": null,
+          "revision": "769069c69c6fee5da645245aad41a67997fdb24b",
+          "version": "3.0.1"
+        }
+      },
+      {
+        "package": "PerfectThread",
+        "repositoryURL": "https://github.com/bytethenoodle/Perfect-Thread.git",
+        "state": {
+          "branch": null,
+          "revision": "fef0cd1646478a68483ade36ad53dea02842dd4f",
+          "version": "3.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
