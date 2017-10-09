@@ -23,7 +23,7 @@ import PerfectThread
 import SwiftGlibc
 import LinuxBridge
     
-public var errno: Int32 {
+var errno: Int32 {
     return linux_errno()
 }
     
