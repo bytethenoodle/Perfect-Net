@@ -28,7 +28,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/bytethenoodle/Perfect-Crypto.git", .exact("3.0.2")),
-        .package(url: "https://github.com/PerfectlySoft/Perfect-LinuxBridge.git", .upToNextMajor(from: "3.0.0"))
+        .package(url: "https://github.com/PerfectlySoft/Perfect-LinuxBridge.git", .upToNextMajor(from: "3.0.0")),
         .package(url: "https://github.com/bytethenoodle/Perfect-Thread.git", .upToNextMajor(from: "3.0.1")),
     ],
     targets: [
